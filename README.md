@@ -93,3 +93,12 @@ do
     mv ${CFG_DIR[i]} ~/.config/${DIRNAME[i]}/ 2> err
 done
 ```
+
+<h1 align="center">𓆩♡𓆪 𝑨𝑷𝑲'𝒔 𓆩♡𓆪</h1>
+
+<table align="center">
+  <tr><th>Name</th>                       <th></th></tr>
+  <tr><td>X-Plore PRO</td>                <td><a href="https://github.com/n3k0girl/.dotfiles/blob/main/android/apk/X-plore.apk">Link</a></td></tr>
+  <tr><td>F-Droid</td>                    <td><a href="https://github.com/n3k0girl/.dotfiles/blob/main/android/apk/F-Droid.apk">Link</a></td></tr>
+  <tr><td>DuckDuckGo</td>                 <td><a href="https://github.com/n3k0girl/.dotfiles/blob/main/android/apk/DuckDuckGo.apk">Link</a></td></tr>
+</table>
