@@ -19,7 +19,7 @@
 - **Shell:** [zsh](https://www.zsh.org/)
 - **Compositor:** [picom](https://github.com/yshui/picom)
 - **Editor:** [neovim](https://github.com/neovim/neovim)
-- **Browser:** [firefox](https://www.mozilla.org/en-US/firefox)
+- **Browser:** [librewolf](https://librewolf.net/)
 - **Notification Daemon:** [dunst](https://github.com/dunst-project/dunst)
 - **Development Environnement:** [VSCodium](https://github.com/VSCodium/vscodium)
 
