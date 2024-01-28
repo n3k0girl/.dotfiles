@@ -12,7 +12,7 @@
 <!-- INFORMATION -->
 ## :cat: <samp>INFORMATIONS</samp>
 
-<img align="right" width="400" height="225" src="https://cdn.discordapp.com/attachments/1050059938233319465/1057402587898458233/image.png">
+<img align="right" width="400" height="225" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.etsystatic.com%2F30482960%2Fr%2Fil%2F7ade9e%2F3238550633%2Fil_1140xN.3238550633_q44j.jpg&f=1&nofb=1&ipt=c176a5eacc0dc93bf0b27d14a3156a399a94bf1b39ca208f19b8a76f25361068&ipo=images">
 
 - **Window Manager:** [bspwm](https://github.com/baskerville/bspwm)
 - **Terminal:** [kitty](https://github.com/kovidgoyal/kitty)
